@@ -17,7 +17,7 @@ Samples that demonstrate how to use various Prism features with WPF.  If you are
 | [ViewModelLocator - Change Convention][12] | Change the ViewModelLocator naming conventions |
 | [ViewModelLocator - Custom Registrations][13] | Manually register ViewModels for specific views |
 | [DelegateCommand][14] | Use DelegateCommand and `DelegateCommand<T>` |
-| [CompositeCommands][15] | Learn how to use CompsoeCommands to invoke multiple commands as a single command |
+| [CompositeCommands][15] | Learn how to use CompositeCommands to invoke multiple commands as a single command |
 | [IActiveAware Commands][16] | Make your commands IActiveAware to invoke only the active command |
 | [Event Aggregator][17] | Using the IEventAggregator |
 | [Event Aggregator - Filter Events][18] | Filtering events when subscribing to events |
@@ -27,28 +27,28 @@ Samples that demonstrate how to use various Prism features with WPF.  If you are
 | [Navigation Participation][22] | Learn about View and ViewModel navigation participation with INavigationAware |
 | [Navigate to existing Views][23] | Control view instances during navigation |
 | [Passing Parameters][24] | Pass parameters from View/ViewModel to another View/ViewModel |
-| [Confirm/cancel Navigation][25] | Use the IConfirmNavigationReqest interface to confirm or cancle navigation |
+| [Confirm/cancel Navigation][25] | Use the IConfirmNavigationReqest interface to confirm or cancel navigation |
 | [Controllng View lifetime][26] | Automatically remove views from memory with IRegionMemberLifetime |
 | [Navigation Journal][27] | Learn how to use the Navigation Journal |
-| [Interactivity - NotificationRequest][28] | Learn how to show popups using an InterctionRequest |
-| [Interactivity - ConfirmationRequest][29] | Learn how to prompt a conformation dialog using a ConfirmationRequest |
+| [Interactivity - NotificationRequest][28] | Learn how to show popups using an InteractionRequest |
+| [Interactivity - ConfirmationRequest][29] | Learn how to prompt a confirmation dialog using a ConfirmationRequest |
 | [Interactivity - Custom Content][30] | Learn how to use your own content for a dialog shown with InteractionRequest |
 | [Interactivity - Custom Request][31] | Create your own custom request to use with an InteractionRequest |
 | [Interactivity - InvokeCommandAction][32] | Invoke commands in response to any event |
 
 
-[1]: 1-BootstrapperShell/
-[2]: 2-Regions/
-[3]: 3-CustomRegions/
-[4]: 4-ViewDiscovery/
-[5]: 5-ViewInjection/
-[6]: 6-ViewActivationDeactivation/
-[7]: 7-Modules%20-%20AppConfig/
-[8]: 7-Modules%20-%20Code/
-[9]: 7-Modules%20-%20Directory/
-[10]: 7-Modules%20-%20LoadManual/
-[11]: 8-ViewModelLocator/
-[12]: 9-ChangeConvention/
+[1]: 01-BootstrapperShell/
+[2]: 02-Regions/
+[3]: 03-CustomRegions/
+[4]: 04-ViewDiscovery/
+[5]: 05-ViewInjection/
+[6]: 06-ViewActivationDeactivation/
+[7]: 07-Modules%20-%20AppConfig/
+[8]: 07-Modules%20-%20Code/
+[9]: 07-Modules%20-%20Directory/
+[10]: 07-Modules%20-%20LoadManual/
+[11]: 08-ViewModelLocator/
+[12]: 09-ChangeConvention/
 [13]: 10-CustomRegistrations/
 [14]: 11-UsingDelegateCommands/
 [15]: 12-UsingCompositeCommands/
